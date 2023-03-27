@@ -6,7 +6,9 @@
 - 🤔 I’m looking for help with ...
 
 <div>
-
+<a herf="https://github.com/M-Gatti" />
+<img hight="180em" src=https://github-readme-stats.vercel.app/api?username=M-Gatti&show_icons=true&theme=tokyonight />
+<img hight="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=M-Gatti&layout=compact&theme=tokyonight />
 </div>
 
 <div style="display: inline_block"><br>
