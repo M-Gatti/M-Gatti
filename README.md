@@ -1,14 +1,9 @@
 ### Hello I'm Marcus, and I'm a software developer !!
 
-
-- 🌱 I’m currently learning JavaScript, React, Node.js and TypeScript.
-- 👯 I’m looking to collaborate on frontend projects !!
-- 🤔 I’m looking for help with evolve my projects.
-
 <div>
-<a herf="https://github.com/M-Gatti" />
-<img hight="180em" src=https://github-readme-stats.vercel.app/api?username=M-Gatti&show_icons=true&theme=tokyonight />
-<img hight="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=M-Gatti&layout=compact&theme=tokyonight />
+<a href="https://github.com/M-Gatti" />
+<img hight="180em" src="https://github-readme-stats.vercel.app/api?username=M-Gatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img hight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Gatti&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -28,5 +23,4 @@
   <a href="https://www.instagram.com/gatti.sj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gattimarcussj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gattisj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
