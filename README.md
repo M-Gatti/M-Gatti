@@ -1,9 +1,9 @@
 ### Hello I'm Marcus, and I'm a software developer !!
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning JavaScript, React, Node.js and TypeScript.
+- 👯 I’m looking to collaborate on frontend projects !!
+- 🤔 I’m looking for help with evolve my projects.
 
 <div>
 <a herf="https://github.com/M-Gatti" />
