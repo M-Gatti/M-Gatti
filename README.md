@@ -46,4 +46,3 @@ Agile/Scrum · STLC · BDD/Gherkin · Test Design Techniques · API Testing · C
 | Project | Description | Tech |
 |---|---|---|
 | [desafio-dti-cypress](https://github.com/M-Gatti/Desafio-dti) | E2E automated test suite covering authentication and account creation flows using BDD | Cypress · JavaScript |
-| [qa-processes-portfolio](https://github.com/M-Gatti/qa-processes-portfolio) | QA workflows, defect management standards, and release processes from real Agile SaaS experience | Markdown · Documentation |
