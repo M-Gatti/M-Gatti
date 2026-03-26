@@ -6,6 +6,7 @@ Focused on manual testing, API validation, test design techniques, and QA proces
 
 ---
 
+🔍 Currently open to QA opportunities — Junior or Mid-level  
 📍 Belo Horizonte, MG — Remote  
 
 <div>
@@ -30,13 +31,13 @@ Currently pursuing a B.Sc. in Software Engineering at PUC Minas.
 ## Tech Stack
 
 **Testing & QA**  
-Cypress · Selenium · Postman · DevTools · Jira · Confluence
+Cypress · Postman · DevTools · Jira · Confluence
 
 **Languages & Tools**  
 JavaScript · SQL · Git · GitHub
 
 **Methodologies**  
-Agile/Scrum · STLC · Test Design Techniques · API Testing · Cross-browser Testing
+Agile/Scrum · STLC · BDD/Gherkin · Test Design Techniques · API Testing · Cross-browser Testing
 
 ---
 
@@ -44,4 +45,5 @@ Agile/Scrum · STLC · Test Design Techniques · API Testing · Cross-browser Te
 
 | Project | Description | Tech |
 |---|---|---|
-| [Desafio DTI](https://github.com/M-Gatti/Desafio-dti) | E2E automated test suite covering login and account creation flows | Cypress · JavaScript |
+| [desafio-dti-cypress](https://github.com/M-Gatti/Desafio-dti) | E2E automated test suite covering authentication and account creation flows using BDD | Cypress · JavaScript |
+| [qa-processes-portfolio](https://github.com/M-Gatti/qa-processes-portfolio) | QA workflows, defect management standards, and release processes from real Agile SaaS experience | Markdown · Documentation |
